@@ -6,12 +6,12 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="middle" style="border: none;">
-      <h4 align="left" style="line-height: 1.6; font-weight: normal; margin: 0;">
+      <h3 align="left" style="line-height: 1.6; font-weight: normal; margin: 0;">
         I am a passionate Full-Stack Developer focused on building robust backend architectures and creating interactive, responsive frontend user experiences. I enjoy solving complex logic puzzles, optimizing database queries, and bringing creative web applications to life.
-      </h4>
+      </h3>
     </td>
     <td width="40%" align="right" valign="middle" style="border: none;">
-      <img src="https://giffiles.alphacoders.com/220/220235.gif" height="180" style="border-radius: 8px;" alt="Lofi Animation" />
+      <img src="https://i.pinimg.com/originals/07/ea/ce/07eacec447a64e37be385b723e644809.gif" height="180" style="border-radius: 8px;" alt="Lofi Animation" />
     </td>
   </tr>
 </table>
@@ -24,9 +24,9 @@
 
 <!-- Cleaned up the formatting here so the bullets align vertically properly -->
 <ul align="left" style="list-style-type: none; padding-left: 0;">
-  <li><h4>🔭 Currently deepening my knowledge of full-stack ecosystems.</h4></li>
-  <li><h4>⚙️ Core Strategy: Writing clean, modular, and maintainable code.</h4></li>
-  <li><h4>⚡ Fun Fact: When I'm not debugging, I enjoy diving into app dev & game dev.</h4></li>
+  <li><h3>🔭 Currently deepening my knowledge of full-stack ecosystems.</h3></li>
+  <li><h3>⚙️ Core Strategy: Writing clean, modular, and maintainable code.</h3></li>
+  <li><h3>⚡ Fun Fact: When I'm not debugging, I enjoy diving into app dev & game dev.</h3></li>
 </ul>
 
 ###

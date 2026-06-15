@@ -6,21 +6,21 @@
 
 ###
 
-<p align="left">I am a passionate Full-Stack Developer focused on building robust backend architectures and creating interactive, responsive frontend user experiences. I enjoy solving complex logic puzzles, optimizing database queries, and bringing creative web applications to life.</p>
+<h4 align="left">I am a passionate Full-Stack Developer focused on building robust backend architectures and creating interactive, responsive frontend user experiences. I enjoy solving complex logic puzzles, optimizing database queries, and bringing creative web applications to life.</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="left">- 🔭 Currently deepening my knowledge of full-stack ecosystems. <br>- ⚙️ Core Strategy: Writing clean, modular, and maintainable code.<br>- ⚡ Fun Fact: When I'm not debugging, I enjoy diving into app dev & game dev.</p>
+<h4 align="left">- 🔭 Currently deepening my knowledge of full-stack ecosystems. <br>- ⚙️ Core Strategy: Writing clean, modular, and maintainable code.<br>- ⚡ Fun Fact: When I'm not debugging, I enjoy diving into app dev & game dev.</h4>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">Skills/Tools</h1>
 
 ###
 

@@ -11,7 +11,7 @@
       </h3>
     </td>
     <td width="40%" align="right" valign="middle" style="border: none;">
-      <img src="https://i.pinimg.com/originals/07/ea/ce/07eacec447a64e37be385b723e644809.gif" height="180" style="border-radius: 8px;" alt="Lofi Animation" />
+      <img src="https://i.pinimg.com/originals/07/ea/ce/07eacec447a64e37be385b723e644809.gif" width="100%" max-width="800px" style="border: 2px solid #2d333b; border-radius: 6px; box-shadow: 0px 4px 8px rgba(0,0,0,0.5);" alt="Pixel Arcade" />
     </td>
   </tr>
 </table>
